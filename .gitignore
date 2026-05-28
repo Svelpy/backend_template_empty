@@ -1,0 +1,12 @@
+__pycache__/
+docs/
+tests/
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+# Environment variables
+.env
+.env.local
+.env.*.local
