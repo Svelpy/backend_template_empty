@@ -1,6 +1,4 @@
 __pycache__/
-docs/
-tests/
 # Virtual Environment
 venv/
 env/
